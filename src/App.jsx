@@ -66,7 +66,7 @@ function App() {
           className="relative inline-block mb-12 animate-float"
         >
           <div className="absolute inset-0 bg-brand-blue blur-[100px] opacity-20 -z-10 animate-pulse-slow" />
-          <img src="/LogoNayilX.png" alt="NAYILX Logo" className="w-72 md:w-80 mx-auto drop-shadow-[0_10px_30px_rgba(0,158,255,0.3)]" />
+          <img src="./LogoNayilX.png" alt="NAYILX Logo" className="w-72 md:w-80 mx-auto drop-shadow-[0_10px_30px_rgba(0,158,255,0.3)]" />
         </Motion.div>
 
         <Motion.div
