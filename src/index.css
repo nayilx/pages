@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --bg-deep: #020408;
+  --text-main: #F8FAFC;
+}
+
+@theme {
+  --color-brand-blue: #009EFF;
+  --color-brand-lime: #D4F240;
+  --color-brand-deep: #020408;
+  --color-brand-panel: #0B1221;
+
+  --background-image-brand-gradient: linear-gradient(135deg, #009EFF 0%, #D4F240 100%);
+}
+
+body {
+  background-color: var(--bg-deep);
+  color: var(--text-main);
+  background-image: 
+    radial-gradient(circle at 50% 0%, #0F2540 0%, transparent 70%),
+    linear-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+  background-size: 100% 100%, 50px 50px, 50px 50px;
+  overflow-x: hidden;
+}
