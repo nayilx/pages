@@ -2,7 +2,7 @@
   "name": "nayilx",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://nayilx.github.io/nayil",
+  "homepage": "https://nayilx.github.io/pages",
   "type": "module",
   "scripts": {
     "dev": "vite",
