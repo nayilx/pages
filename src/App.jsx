@@ -95,7 +95,7 @@ function App() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
             <Motion.a
-              href="https://wa.me/"
+              href="https://wa.me/573144629629"
               whileHover={{ scale: 1.05, translateY: -3 }}
               whileTap={{ scale: 0.95 }}
               className="bg-brand-gradient text-brand-deep font-extrabold px-12 py-5 rounded-full shadow-[0_0_40px_rgba(212,242,64,0.3)] hover:shadow-[0_0_60px_rgba(212,242,64,0.5)] transition-all flex items-center gap-3 text-lg"
@@ -152,7 +152,7 @@ function App() {
               Agenda una sesión estratégica para diseñar la hoja de ruta digital que acelerará tu crecimiento.
             </p>
             <Motion.a
-              href="https://wa.me/"
+              href="https://wa.me/573144629629"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="inline-flex items-center gap-3 bg-white/5 hover:bg-white/10 text-white border border-white/10 px-8 py-4 rounded-full backdrop-blur-md transition-all font-semibold"
